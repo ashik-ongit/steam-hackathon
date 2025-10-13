@@ -97,7 +97,7 @@ pandas
 ## 🙌 Author
 
 **🚀 Built by Ashik K**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ashik-k)
+🔗 [LinkedIn](https://www.linkedin.com/in/ashik2212)
 
 ---
 
@@ -115,6 +115,7 @@ This project is built for the [Google Cloud Hackathon 2025](https://devpost.com)
 ## 📝 License
 
 MIT License – feel free to use, modify & improve!
+
 
 
 BDO|e1`z1v`cm44E~
